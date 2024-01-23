@@ -1,0 +1,15 @@
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\bin\Debug\net8.0\Tarefa3.exe
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\bin\Debug\net8.0\Tarefa3.deps.json
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\bin\Debug\net8.0\Tarefa3.runtimeconfig.json
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\bin\Debug\net8.0\Tarefa3.dll
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\bin\Debug\net8.0\Tarefa3.pdb
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.AssemblyInfoInputs.cache
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.AssemblyInfo.cs
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.csproj.CoreCompileInputs.cache
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.sourcelink.json
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.dll
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\refint\Tarefa3.dll
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.pdb
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\Tarefa3.genruntimeconfig.cache
+D:\Desafio Paradigma\Desafio-Paradigma\Tarefa3\obj\Debug\net8.0\ref\Tarefa3.dll
